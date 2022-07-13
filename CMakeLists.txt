@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
-project(CMakeSFMLProject LANGUAGES CXX)
+project(SFMLProject LANGUAGES CXX)
 
 include(FetchContent)
 FetchContent_Declare(SFML
